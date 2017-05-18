@@ -1,0 +1,18 @@
+﻿body {
+}
+table {
+   
+}
+tr {
+    border-bottom: solid 1px #432600;
+    background-color: pink;
+}
+td {
+  min-width: 100px;  
+}
+.img-list img {
+    width: 200px;
+    height:200px;
+    padding:2px;
+    border: solid 1px #404040;
+}
